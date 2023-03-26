@@ -1,5 +1,5 @@
 function preload() {
-    myfont = loadFont('assets/Orbitron-Medium.ttf');
+    myfont = loadFont('Orbitron-Medium.ttf');
 }
 
 N=21;
